@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misho\\source\\repos\\test\\test2\\test2.csproj": {}
+    "C:\\Users\\misho\\Desktop\\Test\\test2\\test2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misho\\source\\repos\\test\\test2\\test2.csproj": {
+    "C:\\Users\\misho\\Desktop\\Test\\test2\\test2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misho\\source\\repos\\test\\test2\\test2.csproj",
+        "projectUniqueName": "C:\\Users\\misho\\Desktop\\Test\\test2\\test2.csproj",
         "projectName": "test2",
-        "projectPath": "C:\\Users\\misho\\source\\repos\\test\\test2\\test2.csproj",
+        "projectPath": "C:\\Users\\misho\\Desktop\\Test\\test2\\test2.csproj",
         "packagesPath": "C:\\Users\\misho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misho\\source\\repos\\test\\test2\\obj\\",
+        "outputPath": "C:\\Users\\misho\\Desktop\\Test\\test2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
