@@ -29,6 +29,9 @@ namespace delegate_class_test
             ageValidator.isYEarValid(new DateTime(2020,1,1), age_Calculator_OK);
             age_Calculator_OK.calcuateAge(new DateTime(2011,3,1));
             Console.WriteLine(  );
+
+
+            Console.WriteLine("mishos branchis damateba");
         }
 
     }
