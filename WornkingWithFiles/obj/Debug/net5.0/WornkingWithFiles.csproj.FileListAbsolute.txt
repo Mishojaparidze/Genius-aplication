@@ -1,0 +1,15 @@
+C:\Users\misho\Desktop\Test\WornkingWithFiles\bin\Debug\net5.0\WornkingWithFiles.exe
+C:\Users\misho\Desktop\Test\WornkingWithFiles\bin\Debug\net5.0\WornkingWithFiles.deps.json
+C:\Users\misho\Desktop\Test\WornkingWithFiles\bin\Debug\net5.0\WornkingWithFiles.runtimeconfig.json
+C:\Users\misho\Desktop\Test\WornkingWithFiles\bin\Debug\net5.0\WornkingWithFiles.runtimeconfig.dev.json
+C:\Users\misho\Desktop\Test\WornkingWithFiles\bin\Debug\net5.0\WornkingWithFiles.dll
+C:\Users\misho\Desktop\Test\WornkingWithFiles\bin\Debug\net5.0\WornkingWithFiles.pdb
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\WornkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\WornkingWithFiles.AssemblyInfoInputs.cache
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\WornkingWithFiles.AssemblyInfo.cs
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\WornkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\WornkingWithFiles.dll
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\refint\WornkingWithFiles.dll
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\WornkingWithFiles.pdb
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\WornkingWithFiles.genruntimeconfig.cache
+C:\Users\misho\Desktop\Test\WornkingWithFiles\obj\Debug\net5.0\ref\WornkingWithFiles.dll
