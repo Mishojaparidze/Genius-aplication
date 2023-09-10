@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qdqalzzSyZiyo32M2EB4dgJp3ePYwE2z1W/Z25Z7aqKsVzo3nTyIDmbEkbLkBzaEF+6ZGUxWMjPhTUbW8dOAFg==",
+  "dgSpecHash": "PG8iT9uA3ryYPr4ltbAfnVHW2lt1YahI3zRbbgDrTzCMI5zXuXyWtNQxxiHzImHvlm4/q8hRZGcdIVPp3Br/og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\misho\\Desktop\\Test\\delegate class test\\delegate class test.csproj",
+  "projectFilePath": "C:\\Users\\misho\\source\\repos\\test\\delegate class test\\delegate class test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

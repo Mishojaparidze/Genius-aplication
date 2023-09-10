@@ -32,6 +32,7 @@ namespace delegate_class_test
 
 
             Console.WriteLine("mishos branchis damateba");
+
         }
 
     }
