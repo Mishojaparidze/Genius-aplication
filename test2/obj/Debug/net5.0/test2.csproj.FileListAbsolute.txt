@@ -1,0 +1,15 @@
+C:\Users\misho\source\repos\test\test2\bin\Debug\net5.0\test2.exe
+C:\Users\misho\source\repos\test\test2\bin\Debug\net5.0\test2.deps.json
+C:\Users\misho\source\repos\test\test2\bin\Debug\net5.0\test2.runtimeconfig.json
+C:\Users\misho\source\repos\test\test2\bin\Debug\net5.0\test2.runtimeconfig.dev.json
+C:\Users\misho\source\repos\test\test2\bin\Debug\net5.0\test2.dll
+C:\Users\misho\source\repos\test\test2\bin\Debug\net5.0\test2.pdb
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\test2.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\test2.AssemblyInfo.cs
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\test2.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\test2.dll
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\refint\test2.dll
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\test2.pdb
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\test2.genruntimeconfig.cache
+C:\Users\misho\source\repos\test\test2\obj\Debug\net5.0\ref\test2.dll

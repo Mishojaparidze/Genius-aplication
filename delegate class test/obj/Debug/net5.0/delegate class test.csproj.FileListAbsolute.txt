@@ -1,0 +1,15 @@
+C:\Users\misho\source\repos\test\delegate class test\bin\Debug\net5.0\delegate class test.exe
+C:\Users\misho\source\repos\test\delegate class test\bin\Debug\net5.0\delegate class test.deps.json
+C:\Users\misho\source\repos\test\delegate class test\bin\Debug\net5.0\delegate class test.runtimeconfig.json
+C:\Users\misho\source\repos\test\delegate class test\bin\Debug\net5.0\delegate class test.runtimeconfig.dev.json
+C:\Users\misho\source\repos\test\delegate class test\bin\Debug\net5.0\delegate class test.dll
+C:\Users\misho\source\repos\test\delegate class test\bin\Debug\net5.0\delegate class test.pdb
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\delegate class test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\delegate class test.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\delegate class test.AssemblyInfo.cs
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\delegate class test.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\delegate class test.dll
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\refint\delegate class test.dll
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\delegate class test.pdb
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\delegate class test.genruntimeconfig.cache
+C:\Users\misho\source\repos\test\delegate class test\obj\Debug\net5.0\ref\delegate class test.dll
