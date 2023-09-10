@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FRBP2Z85NwjKdOLsMGwpry9rYCKdeuQkKFcMQggxkR8P45YzkII/4RPxFxVTcScCAchZt7b6puW5o/mvXnbDOg==",
+  "dgSpecHash": "shbrnlXkWo5LdEwpSHOZuEgmw4WIQxRbHY/ii1bkRaIEEiFB9FTOlkoNI+elHT7EF3ZqHCuZfoEAtjImNfa2Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\misho\\Desktop\\Test\\test2\\test2.csproj",
+  "projectFilePath": "C:\\Users\\misho\\source\\repos\\test\\test2\\test2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
