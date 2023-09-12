@@ -1,0 +1,15 @@
+C:\Users\misho\source\repos\test\Xml-Json\bin\Debug\net5.0\Xml-Json.exe
+C:\Users\misho\source\repos\test\Xml-Json\bin\Debug\net5.0\Xml-Json.deps.json
+C:\Users\misho\source\repos\test\Xml-Json\bin\Debug\net5.0\Xml-Json.runtimeconfig.json
+C:\Users\misho\source\repos\test\Xml-Json\bin\Debug\net5.0\Xml-Json.runtimeconfig.dev.json
+C:\Users\misho\source\repos\test\Xml-Json\bin\Debug\net5.0\Xml-Json.dll
+C:\Users\misho\source\repos\test\Xml-Json\bin\Debug\net5.0\Xml-Json.pdb
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\Xml-Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\Xml-Json.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\Xml-Json.AssemblyInfo.cs
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\Xml-Json.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\Xml-Json.dll
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\refint\Xml-Json.dll
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\Xml-Json.pdb
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\Xml-Json.genruntimeconfig.cache
+C:\Users\misho\source\repos\test\Xml-Json\obj\Debug\net5.0\ref\Xml-Json.dll

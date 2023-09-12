@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegate class test", "dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WornkingWithFiles", "..\..\..\Desktop\Test\WornkingWithFiles\WornkingWithFiles.csproj", "{A58860E9-69CD-4A78-BFF2-F55DCCD0BA2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml-Json", "Xml-Json\Xml-Json.csproj", "{08581FCD-2D83-471E-B407-A788EF119E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A58860E9-69CD-4A78-BFF2-F55DCCD0BA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A58860E9-69CD-4A78-BFF2-F55DCCD0BA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A58860E9-69CD-4A78-BFF2-F55DCCD0BA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08581FCD-2D83-471E-B407-A788EF119E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08581FCD-2D83-471E-B407-A788EF119E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08581FCD-2D83-471E-B407-A788EF119E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08581FCD-2D83-471E-B407-A788EF119E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
